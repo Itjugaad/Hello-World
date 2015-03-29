@@ -6,3 +6,6 @@ c)Demo web application
 d)Technology Stack
 e)Next tasks
 
+Next agenda
+1) Build tool analysis
+
